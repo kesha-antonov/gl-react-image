@@ -9,7 +9,7 @@
     "example": "cd example && budo index.js -- -t [ babelify --presets es2015,stage-1,react ]"
   },
   "peerDependencies": {
-    "gl-react": "~2.2.0",
+    "gl-react": "~2.3.1",
     "prop-types": "^15.6.0"
   },
   "devDependencies": {
